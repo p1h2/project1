@@ -1,0 +1,4 @@
+﻿  1  源.cpp
+D:\B编程\Project1\Project1\1  源.cpp(2,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+D:\B编程\Project1\Project1\1  源.cpp : message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  Project1.vcxproj -> D:\B编程\Project1\x64\Debug\Project1.exe
